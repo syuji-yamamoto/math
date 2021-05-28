@@ -4,4 +4,4 @@ b=1
 #
 #adding a and b
 let c=$a+$b
-echo $c
+printf "This is the answer: %d\n" $c
